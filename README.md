@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Jacqueline, but I often go by "Jax" 
-I'm a Software Engineer based out of Chicago who's passionate about being a lifelong learner and believes in continuous growth 🌱. I love exploring new technologies and constantly challenging myself to improve my skills and become a better Software Engineer
+I'm a **Software Engineer** based out of Chicago who's passionate about being a lifelong learner and believes in continuous growth 🌱. I love exploring new technologies and constantly challenging myself to improve my skills and become a better Software Engineer
 
 ## 🌸 About Me
 - 💖 Pronouns: **she/her**
-- 👩‍🎓 Degree: Computer Science from DePaul University
+- 👩‍🎓 Degree: **Computer Science** from DePaul University
 - 🔭 I'm currently building applications in **React** and **C#**
 - ⚡ Fun fact: I used to be in a competitive karaoke league! 🎤✨
 - 🎮 Ask me about what video games I'm currently playing or what anime I'm watching
