@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Jacqueline, but I often go by "Jax" 
-I'm a **Software Engineer** based out of Chicago who's passionate about being a lifelong learner and believes in continuous growth 🌱. I love exploring new technologies and constantly challenging myself to improve my skills and become a better Software Engineer
+I'm a **Software Engineer** based out of Chicago who's passionate about being a lifelong learner and believes in continuous growth. 🌱 I love exploring new technologies and constantly challenging myself to improve my skills and become a better Software Engineer
 
 ## 🌸 About Me
 - 💖 Pronouns: **she/her**
