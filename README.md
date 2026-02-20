@@ -4,7 +4,7 @@ I'm a **Software Engineer** based out of Chicago who's passionate about being a 
 ## 🌸 About Me
 - 💖 Pronouns: **she/her**
 - 👩‍🎓 Degree: Bachelor's degree in **Computer Science** from DePaul University
-- 🔭 I'm currently building applications in **React** and **C#**
+- 🛠️ I'm currently building applications in **React** and **C#**
 - ⚡ Fun fact: I used to be in a competitive karaoke league! 🎤✨
 - 🎮 Ask me about what video games I'm currently playing or what anime I'm watching
 
