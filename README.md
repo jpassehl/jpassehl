@@ -4,9 +4,7 @@
 I'm a **Software Engineer** based out of Chicago who's passionate about being a lifelong learner and believes in continuous growth. 🌱 I love exploring new technologies and constantly challenging myself to improve my skills and become a better Software Engineer
 
 ```
-  /\_/\
- ( ^.^ ) ❤︎₊ ⊹
-  > ♡ <
+(๑˃ᴗ˂)ﻭ❤︎₊ ⊹
 ```
 ![Status](https://img.shields.io/badge/status-always%20learning-blueviolet?style=flat-square)
 
