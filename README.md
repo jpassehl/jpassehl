@@ -1,12 +1,20 @@
 
 
 # Hi there! 👋 I'm Jacqueline, but I often go by "Jax" 
-I'm a **Software Engineer** based out of Chicago who's passionate about being a lifelong learner and believes in continuous growth. 🌱 I love exploring new technologies and constantly challenging myself to improve my skills and become a better Software Engineer
+<img align="right" src="https://media.tenor.com/tzrrjvaq4G0AAAAi/hamster-hamtaro.gif" width="100">
 
+I'm a **Software Engineer** based out of Chicago who's passionate about being a lifelong learner and believes in continuous growth. 🌱 I love exploring new technologies and constantly challenging myself to improve my skills and become a better Software Engineer
 ```
-(๑˃ᴗ˂)ﻭ❤︎₊ ⊹
+(๑˃ᴗ˂)ﻭ♡₊ ⊹
 ```
+
+<div clear="both">
+
 ![Status](https://img.shields.io/badge/status-always%20learning-E06377?style=flat-square)
+
+![Jax's GitHub stats](https://github-stats.vercel.app/api?username=jpassehl&bg_color=FFF5F5&title_color=E06377&icon_color=C9B1FF&text_color=555&show_icons=true&hide_border=true)
+
+</div>
 
 ## 🌸 About Me
 - 💖 Pronouns: **she/her**
@@ -24,5 +32,6 @@ I'm a **Software Engineer** based out of Chicago who's passionate about being a 
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
----
+. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+
 *"Vulnerability is not winning or losing; it’s having the courage to show up and be seen when we have no control over the outcome. Vulnerability is not weakness; it’s our greatest measurement of courage." -Brené Brown* 🌠
