@@ -6,7 +6,7 @@ I'm a **Software Engineer** based out of Chicago who's passionate about being a 
 ```
 (๑˃ᴗ˂)ﻭ❤︎₊ ⊹
 ```
-![Status](https://img.shields.io/badge/status-always%20learning-blueviolet?style=flat-square)
+![Status](https://img.shields.io/badge/status-always%20learning-E06377?style=flat-square)
 
 ## 🌸 About Me
 - 💖 Pronouns: **she/her**
